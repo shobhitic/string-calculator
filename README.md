@@ -1,4 +1,4 @@
-# String Calculator Kata
+# String Calculator Kata [![Build Status](https://travis-ci.org/shobhitic/string-calculator.png?branch=master)](https://travis-ci.org/shobhitic/string-calculator)
 
 This is a [String Calculator Kata](http://osherove.com/tdd-kata-1/) which I performed for the first time. It took me ~29 minutes to complete it.
 
